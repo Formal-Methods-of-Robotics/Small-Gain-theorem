@@ -1,2 +1,1 @@
-# Formal proof of the Small-Gain theorem in Isabelle/HOL theorem prover
-
+# Formal proof of the Small-gain theorem in Isabelle/HOL theorem prover
