@@ -5,7 +5,9 @@
 *)
 
 theory Small_Gain_Theorem
-imports   
+imports  
+"~~/src/HOL/Probability/Analysis"   
+"~~/src/HOL/Probability/Probability"
 "~~/src/HOL/Library/Function_Algebras"
 "~~/L2Norm_Integral"
 begin
